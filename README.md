@@ -55,4 +55,11 @@ and can recognize registered third-party antivirus products.
 SystemSift provides diagnostic information only and does not make changes
 to your PC.
 
+## Screenshots
+
+<img width="2879" height="1491" alt="Screenshot 2026-08-22 213016" src="https://github.com/user-attachments/assets/942bb1b9-cb43-4f8a-8cc9-3ec55fc640ac" />
+<img width="2879" height="1306" alt="Screenshot 2026-08-22 213004" src="https://github.com/user-attachments/assets/037cd215-95c0-471d-8920-754bebd1d6b5" />
+<img width="1769" height="1286" alt="Screenshot 2026-08-22 212939" src="https://github.com/user-attachments/assets/5739ba5e-2678-4c51-a540-f626e4b9376c" />
+<img width="1769" height="1281" alt="Screenshot 2026-08-22 212909" src="https://github.com/user-attachments/assets/dcc99cef-3518-4924-85e3-82ad4c5325bb" />
+
 Copyright © 2026 Steffen Engels. All rights reserved.
